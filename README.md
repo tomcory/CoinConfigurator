@@ -2,6 +2,8 @@
 
 An Android application developed for the SNET Lab demonstrator at TU Berlin, designed to showcase interactive coin configuration capabilities during the Lange Nacht der Wissenschaften 2025 in Berlin.
 
+![CoinConfigurator Screenshot](screenshot.png)
+
 ## Features
 
 - **Interactive Coin Configuration**: Real-time coin customization with visual feedback
