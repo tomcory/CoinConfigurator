@@ -64,9 +64,8 @@ app/src/main/java/berlin/tu/snet/coinconfigurator/
 
 **Lange Nacht der Wissenschaften 2025**
 - **Location**: TU Berlin, Berlin, Germany
-- **Date**: 2025
-- **Demonstrator**: SNET Lab
-- **Purpose**: Interactive showcase of modern Android development and coin configuration technology
+- **Date**: 28 June 2025
+- **Demonstrator**: SNET Lab, Haus der digitalen Zukunft
 
 ## Contributing
 
