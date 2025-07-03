@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">CoinConfigurator</string>
+    
+    <!-- Main UI -->
+    <string name="toggle_dark_mode">Dunkelmodus umschalten</string>
+    <string name="print_head_colors">Druckkopf-Farben</string>
+    <string name="no_configuration_available">Keine Konfiguration verfügbar</string>
+    
+    <!-- Error Messages -->
+    <string name="cannot_reach_api">API für die angegebene Basis-URL nicht erreichbar.</string>
+    <string name="check_network_and_url">Bitte überprüfen Sie Ihre Netzwerkverbindung und Basis-URL-Einstellungen.</string>
+    <string name="no_internet">Kein Internet</string>
+    
+    <!-- Preferences Dialog -->
+    <string name="printing_head_colors_settings">Einstellungen</string>
+    <string name="define_colors_for_printing_heads">Definieren Sie Farben für jeden Druckkopf</string>
+    <string name="base_url">Basis-URL</string>
+    <string name="printing_head_color_hex">Druckkopf %1$d Farbe (Hex)</string>
+    <string name="save">Speichern</string>
+    <string name="cancel">Abbrechen</string>
+    
+    <!-- Validation Errors -->
+    <string name="base_url_empty">Basis-URL darf nicht leer sein</string>
+    <string name="base_url_must_start_with_http">Basis-URL muss mit https:// beginnen</string>
+    <string name="base_url_must_end_with_slash">Basis-URL muss mit einem \'/\' enden</string>
+    <string name="base_url_must_have_valid_host">Basis-URL muss einen gültigen Host haben (z.B. https://example.com/)</string>
+    <string name="base_url_not_valid">Basis-URL ist keine gültige URL</string>
+    <string name="color_must_be_6_hex_digits">Farbe muss 6 Hex-Ziffern haben</string>
+    <string name="invalid_color_format">Ungültiges Farbformat</string>
+    
+    <!-- Base URL Entry Screen -->
+    <string name="enter_api_base_url">API Basis-URL eingeben</string>
+    <string name="base_url_description">(das ist der Teil vor /spaces)</string>
+    <string name="cont">Weiter</string>
+    
+    <!-- Coin Configuration -->
+    <string name="coin_width">Münzbreite</string>
+    <string name="coin_height">Münzhöhe</string>
+    <string name="coin_color_print_head">Münzfarbe</string>
+    <string name="logo">Logo</string>
+    <string name="logo_color_print_head">Logo-Farbe</string>
+    <string name="logo_none">Kein Logo</string>
+    <string name="logo_proceed">Proceed</string>
+    <string name="logo_snet">SNET</string>
+    <string name="logo_tub">TU Berlin</string>
+    
+    <!-- Success/Error Messages -->
+    <string name="parameter_updated_successfully">Parameter erfolgreich aktualisiert</string>
+    <string name="failed_to_load_configuration">Konfiguration konnte nicht geladen werden: %1$s</string>
+    <string name="failed_to_update_parameter">Parameter konnte nicht aktualisiert werden: %1$s</string>
+    
+    <!-- Language Selection -->
+    <string name="language_selection">Sprachauswahl</string>
+    <string name="close">Schließen</string>
+    <string name="language">Sprache</string>
+</resources> 

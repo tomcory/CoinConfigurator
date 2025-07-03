@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">CoinConfigurator</string>
+    
+    <!-- Main UI -->
+    <string name="toggle_dark_mode">Toggle Dark Mode</string>
+    <string name="print_head_colors">Print Head Colors</string>
+    <string name="no_configuration_available">No configuration available</string>
+    
+    <!-- Error Messages -->
+    <string name="cannot_reach_api">Cannot reach API for the given base URL.</string>
+    <string name="check_network_and_url">Please check your network connection and base URL settings.</string>
+    <string name="no_internet">No Internet</string>
+    
+    <!-- Preferences Dialog -->
+    <string name="printing_head_colors_settings">Settings</string>
+    <string name="define_colors_for_printing_heads">Define colors for each printing head</string>
+    <string name="base_url">Base URL</string>
+    <string name="printing_head_color_hex">Printing Head %1$d Color (Hex)</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    
+    <!-- Validation Errors -->
+    <string name="base_url_empty">BASE_URL cannot be empty</string>
+    <string name="base_url_must_start_with_http">BASE_URL must start with https://</string>
+    <string name="base_url_must_end_with_slash">BASE_URL must end with a \'/\'</string>
+    <string name="base_url_must_have_valid_host">BASE_URL must have a valid host (e.g. https://example.com/)</string>
+    <string name="base_url_not_valid">BASE_URL is not a valid URL</string>
+    <string name="color_must_be_6_hex_digits">Color must be 6 hex digits</string>
+    <string name="invalid_color_format">Invalid color format</string>
+    
+    <!-- Base URL Entry Screen -->
+    <string name="enter_api_base_url">Enter the API Base URL</string>
+    <string name="base_url_description">(that\'s the part before /spaces)</string>
+    <string name="cont">Continue</string>
+    
+    <!-- Coin Configuration -->
+    <string name="coin_width">Coin Width</string>
+    <string name="coin_height">Coin Height</string>
+    <string name="coin_color_print_head">Coin Color</string>
+    <string name="logo">Logo</string>
+    <string name="logo_color_print_head">Logo Color</string>
+    <string name="logo_none">No logo</string>
+    <string name="logo_proceed">Proceed</string>
+    <string name="logo_snet">SNET</string>
+    <string name="logo_tub">TU Berlin</string>
+    
+    <!-- Success/Error Messages -->
+    <string name="parameter_updated_successfully">Parameter updated successfully</string>
+    <string name="failed_to_load_configuration">Failed to load configuration: %1$s</string>
+    <string name="failed_to_update_parameter">Failed to update parameter: %1$s</string>
+    
+    <!-- Language Selection -->
+    <string name="language_selection">Language Selection</string>
+    <string name="close">Close</string>
+    <string name="language">Language</string>
+</resources>
